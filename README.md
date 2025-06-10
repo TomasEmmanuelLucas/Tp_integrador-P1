@@ -13,7 +13,7 @@ Contenido del repositorio
 - "nombre del codigo": Código con la implementación de los algoritmos.
 - TPI Busqueda y Ordenamiento.pdf: Informe completo en formato PDF.
 - README.txt: Descripción general del proyecto.
-- Otros archivos complementarios: "link al video de youtube".
+- Vide de Youtube: "https://www.youtube.com/watch?v=poCamLIBjAs".
 
 Objetivos
 ---------
