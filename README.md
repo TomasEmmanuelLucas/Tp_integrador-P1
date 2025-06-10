@@ -10,7 +10,7 @@ de búsqueda y ordenamiento en Python, tanto desde la teoría como en su aplicac
 
 Contenido del repositorio
 -------------------------
-- "nombre del codigo": Código con la implementación de los algoritmos.
+- TP Integrador Final.py: Código con la implementación de los algoritmos.
 - TPI Busqueda y Ordenamiento.pdf: Informe completo en formato PDF.
 - README.txt: Descripción general del proyecto.
 - Vide de Youtube: "https://www.youtube.com/watch?v=poCamLIBjAs".
